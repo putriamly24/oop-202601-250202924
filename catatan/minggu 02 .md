@@ -15,9 +15,9 @@ Pada awal pengerjaan, saya sempat mengalami kendala `Execution Policy` di PowerS
 - Bagian yang dibantu: Pengerjaan class `Aset.java`, terutama atribut, konstruktor, getter, setter, dan validasi.
 
 - Prompt utama:
-1. "Bantu lengkapi kode `Aset.java` sesuai ketentuan tugas minggu 2."
-2. "Jelaskan fungsi kode `Aset.java` dengan bahasa yang mudah dipahami."
-3. "Apa fungsi perintah Maven untuk menjalankan test minggu 2?"
+1. Bantu lengkapi kode `Aset.java` sesuai ketentuan tugas minggu 2.
+2. Jelaskan fungsi kode `Aset.java` dengan bahasa yang mudah dipahami.
+3. Apa fungsi perintah Maven untuk menjalankan test minggu 2?
 
 - Yang saya ubah atau tolak: Saya tetap membiarkan bagian `TODO` untuk minggu 3, 4, dan 5 karena belum menjadi bagian dari tugas minggu 2.
 
