@@ -7,7 +7,7 @@ Pada minggu 2, saya mengerjakan class `Aset.java` dengan menambahkan atribut, ko
 Saya menggunakan `private` untuk menerapkan konsep encapsulation. Atribut kode menggunakan `final` karena nilainya tidak boleh diubah setelah objek dibuat. Untuk nilai awal, status diatur menjadi `TERSEDIA` dan kondisi menjadi `BAIK`. Saya menggunakan `trim()` untuk mengecek apakah kode dan nama kosong atau hanya berisi spasi, tetapi nilai aslinya tetap disimpan. Selain itu, saya menggunakan `IllegalArgumentException` untuk menolak input yang tidak sesuai.
 
 ## Kendala
-Pada awal pengerjaan, saya sempat mengalami kendala `Execution Policy` di PowerShell saat menjalankan pengujian. Setelah itu, saya menggunakan perintah Maven `mvn test -Dgroups=week2` untuk menjalankan pengujian khusus Minggu 2. Hasilnya, pengujian berhasil dengan `BUILD SUCCESS` dan 6 test tanpa kegagalan.
+Pada awal pengerjaan, saya sempat mengalami kendala `Execution Policy` di PowerShell saat menjalankan pengujian. Setelah itu, saya menggunakan perintah Maven `mvn test -Dgroups=week2` untuk menjalankan pengujian khusus Minggu 2, sampai hasil pengujian berhasil.
 
 ## Penggunaan AI
 - Alat yang dipakai: ChatGPT.
