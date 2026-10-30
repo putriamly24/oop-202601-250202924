@@ -1,4 +1,4 @@
-# Catatan Minggu 01: Paradigma Pemrogaman dan Setup
+# Catatan Minggu 01 : Paradigma Pemrogaman dan Setup
 
 ## Yang saya kerjakan
 Saya mengerjakan tiga contoh progam Java dengan paradigma prosedural, OOP, dan fungsional. Saya juga mengisi data NIM dan nama pada file mahasiswa.properties. Setelah selesai, saya menjalankan tes menggunakan script uji.ps1 dan semua tes Minggu 1 berhasil.
